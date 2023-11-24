@@ -51,7 +51,7 @@ sc-rpc-api = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polka
 sp-blockchain = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sp-block-builder = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sc-basic-authorship = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
-substrate-frame-rpc-system = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
+substrate-frame-rpc-system = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.3.0" }
 pallet-transaction-payment-rpc = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 
 # These dependencies are used for runtime benchmarking
