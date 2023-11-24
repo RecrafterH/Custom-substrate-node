@@ -76,8 +76,12 @@ pub mod pallet {
 			// https://docs.substrate.io/main-docs/build/origins/
 			let who = ensure_signed(origin)?;
 
+			let dog = None;
+
+			let cat: u32 = dog.unwrap();
+
 			// Update storage.
-			<Something<T>>::put(something);
+			<Something<T>>::put(cat);
 
 			// Emit an event.
 			Self::deposit_event(Event::SomethingStored { something, who });
