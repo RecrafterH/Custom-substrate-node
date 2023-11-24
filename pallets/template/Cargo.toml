@@ -23,7 +23,7 @@ frame-system = {  default-features = false, git = "https://github.com/paritytech
 [dev-dependencies]
 sp-core = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sp-io = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
-sp-runtime = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
+sp-runtime = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.3.0" }
 
 [features]
 default = ["std"]
