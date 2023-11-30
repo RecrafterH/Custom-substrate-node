@@ -62,7 +62,7 @@ frame-benchmarking-cli = { git = "https://github.com/paritytech/polkadot-sdk", t
 node-template-runtime = {  path = "../runtime" }
 
 # CLI-specific dependencies
-try-runtime-cli = {  optional = true, git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
+try-runtime-cli = {  optional = true, git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.4.0" }
 
 [build-dependencies]
 substrate-build-script-utils = { version = "3.0.0", git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
