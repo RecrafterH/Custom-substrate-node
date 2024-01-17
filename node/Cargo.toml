@@ -36,7 +36,7 @@ sc-consensus = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polk
 sc-consensus-grandpa = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sp-consensus-grandpa = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sc-client-api = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
-sp-runtime = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
+sp-runtime = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.6.0" }
 sp-io = {  git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sp-timestamp = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
 sp-inherents = { git = "https://github.com/paritytech/polkadot-sdk", tag = "polkadot-v1.1.0" }
